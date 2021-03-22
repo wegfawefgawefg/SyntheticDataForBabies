@@ -4,9 +4,9 @@
 agent.py defines at each timestep what the probability of an agent taking an action is.
 
 ###  To Use
-'''bash
+```bash
 python3 scheduler.py
-'''
+```
 
 ###  Data Flaws
 - As you can see, the agents buy only one type of chips.

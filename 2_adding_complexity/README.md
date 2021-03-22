@@ -5,9 +5,9 @@ agent.py defines at each timestep what the probability of an agent taking an act
 More complicated logic is within the agents this time around.
 
 ###  To Use
-'''bash
+```bash
 python3 scheduler.py
-'''
+```
 
 ###  Approach Flaws
 - The context of the data needs to be understood to be coded up as behaviour. 

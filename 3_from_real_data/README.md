@@ -6,9 +6,9 @@ More complicated logic is within the agents this time around,
 but the program attempts to create agents that match the resulting data as much as possible.
 
 ###  To Use
-'''bash
+```bash
 python3 scheduler.py
-'''
+```
 
 ###  Approach Flaws
 - Transactions are not domain agnostic. If I wanted to model clothes shopping, I would need 
