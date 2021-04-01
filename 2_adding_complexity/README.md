@@ -14,7 +14,7 @@ python3 scheduler.py
 This makes the complexity of the agents low, unless you spend a lot of time working on them. 
 If you have a new domain you want to apply this strategy to, you are back at square one. 
 
-- Pathalogical interactions between the agent decision logic is more and more likely as more 
+- Pathological interactions between the agent decision logic is more and more likely as more 
 knobs are added. These will not show up in the top down graphs, but some really weird agents could appear.
 
 - Getting the resulting data to match real data transactions is difficult but not impossible
